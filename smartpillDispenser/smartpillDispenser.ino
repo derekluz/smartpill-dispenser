@@ -30,3 +30,4 @@ void loop() {
   // StepperHandler::dropPills(pillsForCurrentMinute[1], 1);
   delay(30000);
 }
+

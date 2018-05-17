@@ -10,9 +10,11 @@
 
 // defines the number of steps in one revolution of the motor 
 #define STEPS_PER_REVOLUTION 512
+#define DEGREES_90 512
+#define DEGREES_45 256
 
 // defines the speed in rpm of the motor 
-#define SPEED_RPM 200
+#define SPEED_RPM 50
 
 class StepperHandler {
   private:
